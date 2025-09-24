@@ -1,0 +1,32 @@
+{
+  "6267680748": {
+    "notifyTime": "14:41",
+    "waitingForTime": false
+  },
+  "6525456216": {
+    "notifyTime": "06:00",
+    "waitingForSchedule": false,
+    "waitingForScheduleDay": false,
+    "pendingEvent": null,
+    "waitingForScheduleType": false,
+    "waitingForScheduleTime": false,
+    "waitingForScheduleSubject": false,
+    "waitingForScheduleRoom": false,
+    "waitingForScheduleBuilding": false,
+    "waitingForSheet": true
+  },
+  "8114497613": {
+    "notifyTime": "07:30"
+  },
+  "7157341901": {
+    "notifyTime": "07:30"
+  },
+  "6692371608": {
+    "notifyTime": "14:05",
+    "waitingForTime": false
+  },
+  "7237332955": {
+    "waitingForTime": true,
+    "notifyTime": "6:00"
+  }
+}
